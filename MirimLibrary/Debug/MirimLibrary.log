@@ -1,0 +1,43 @@
+﻿  main.cpp
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(313,76): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(313,62): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(313,6): warning C4101: 'bookNum' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(313,20): warning C4101: 'hakbun' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(451,38): warning C4101: 'bookCnt' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(451,47): warning C4101: 'rb1' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(451,62): warning C4101: 'rCnt' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(451,57): warning C4101: 'rb3' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(451,52): warning C4101: 'rb2' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(538,29): warning C4101: 'bookNum' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(538,15): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(538,23): warning C4101: 'rent' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(538,7): warning C4101: 'hakbun' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(616,19): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(655,19): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(675,19): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(675,6): warning C4101: 'hakbun' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(871,21): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(881,24): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(881,17): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(961,21): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1074,18): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1036,15): warning C4101: 'bookCnt' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1364,28): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1364,6): warning C4101: 'bookNum' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1364,15): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1412,6): warning C4101: 'bookNum' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1412,20): warning C4101: 'hakbun' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1412,15): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1462,28): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1462,15): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1639,20): warning C4101: 'hakbun' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1639,15): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1820,42): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1820,28): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1820,15): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1911,20): warning C4101: 'hakbun' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(1911,15): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(2011,11): warning C4101: 'ch1' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(2011,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\MirimLibrary\MirimLibrary\main.cpp(2012,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  MirimLibrary.vcxproj -> C:\Users\user\source\repos\MirimLibrary\Debug\MirimLibrary.exe
