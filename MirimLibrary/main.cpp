@@ -1999,6 +1999,7 @@ void intro();	//function to write record in binary file
 void startMenu(Library);
 void studentMenu(Library);
 void teacherMenu(Library);
+void managerCheck(Library);
 void managerMenu(Library);
 
 
@@ -2082,7 +2083,7 @@ void startMenu(Library data) {
 		teacherMenu(data);
 		break;
 	case 3:
-		managerMenu(data);
+		managerCheck(data);
 		break;
 	case 4:
 		cout << "\n도서관을 이용해주셔서 감사합니다" << endl;
@@ -2090,6 +2091,44 @@ void startMenu(Library data) {
 	default:cout << "\a";
 	}
 
+}
+void managerCheck(Library data) {
+
+	int check_pw;
+	int x = 10, y = 7, pw = 2020, input = 0;
+	system("cls");
+	gotoxy(x, y); y++;
+	cout << "관리자 번호를 입력해주세요";
+	gotoxy(x, y); y++;
+	cout << " >> ";
+	cin >> check_pw;
+
+	if (check_pw == pw) {
+		managerMenu(data);
+	}
+	else {
+		system("cls");
+		gotoxy(10, 6);
+		cout << "!! 관리자 번호가 아닙니다 !!";
+		gotoxy(10, 7);
+		cout << "SPACE를 누르면 처음 화면으로 돌아갑니다" << endl;
+		gotoxy(10, 8);
+		cout << "아무 키를 누르면 도서관 시스템이 종료됩니다" << endl;
+
+		input = _getch();
+		if (input == SPACE) {
+			startMenu(data);
+		}
+		else {
+			gotoxy(10, 10);
+			cout << "도서관을 이용해주셔서 감사합니다" << endl;
+			gotoxy(10, 11);
+			cout << "====================================================" << endl;
+		}
+
+
+
+	}
 }
 
 void studentMenu(Library data) {
